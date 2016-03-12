@@ -108,6 +108,18 @@
       <HintPath>..\packages\Markdown.1.14.4\lib\net45\MarkdownSharp.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Merchello.Core, Version=1.14.5887.15920, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Merchello.Core.1.14.3\lib\net45\Merchello.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Merchello.Examine, Version=1.14.5887.15922, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Merchello.Core.1.14.3\lib\net45\Merchello.Examine.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Merchello.Web, Version=1.14.5887.15923, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Merchello.Core.1.14.3\lib\net45\Merchello.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.ApplicationBlocks.Data, Version=1.0.1559.20655, Culture=neutral">
       <HintPath>..\packages\UmbracoCms.Core.7.4.1\lib\Microsoft.ApplicationBlocks.Data.dll</HintPath>
       <Private>True</Private>
