@@ -4,3 +4,7 @@ Farmarket/Umbraco_Client/
 Farmarket/bin/
 Farmarket/obj/
 packages/
+Farmarket.API/bin/
+Farmarket.API/obj/
+Farmarket/Farmarket.csproj.user
+.vs/Farmarket/v14/.suo
